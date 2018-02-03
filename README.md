@@ -1,11 +1,2 @@
-<html>
-<body>
-Aliencoder16's github repo
-#I wonder how this works
-<h1>This is header 1 <\h1>
-
-Then again, is is just plain text
-
-
-<\body>
-<\html>
+<h1 Welcome to Aliencoders repo >
+This is a learning in progress to learn git hub and how git works.
